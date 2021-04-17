@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi I'm Sophanut, Welcome to my Github profile
 
+😄 สวัสดีครับผมนายโสภณัฐ หนูดี ตอนนี้กำลังศึกษา python flask, micro service, python web django และอื่นๆ
+⚡ I’m currently working on web python,learing on Django...
 <!--
 **ibobbygithub/ibobbygithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
