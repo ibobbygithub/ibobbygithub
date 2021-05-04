@@ -1,7 +1,5 @@
 ### Hi I'm Sophanut, Welcome to my Github profile
 
-⚡ I’m currently learing to trade Forex
-<!--
 **ibobbygithub/ibobbygithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
